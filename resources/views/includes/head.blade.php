@@ -2,7 +2,7 @@
 <meta name="description" content="">
 <meta name="author" content="Scotch">
 
-<title>Super Cool Layouts</title>
+<title>C.V ADMINISTRATION</title>
 
 <!-- load bootstrap from a cdn -->
 <!-- Latest compiled and minified CSS -->

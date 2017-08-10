@@ -13,7 +13,7 @@ class ExperienceController extends Controller
      */
     public function index()
     {
-        //
+        return View('pages.admin_experience');
     }
 
     /**
@@ -23,7 +23,7 @@ class ExperienceController extends Controller
      */
     public function create()
     {
-        //
+
     }
 
     /**
@@ -34,7 +34,10 @@ class ExperienceController extends Controller
      */
     public function store(Request $request)
     {
-        //
+        $this->validate($request,[
+          
+
+        ]);
     }
 
     /**

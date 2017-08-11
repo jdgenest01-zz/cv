@@ -26,3 +26,5 @@ Route::get('contact', function()
 {
     return View::make('pages.contact');
 });
+
+Route::resource('experience', 'ExperienceController');

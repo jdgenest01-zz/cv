@@ -13,7 +13,7 @@ class ConnaissanceController extends Controller
      */
     public function index()
     {
-        //
+        
     }
 
     /**
